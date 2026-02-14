@@ -1,5 +1,19 @@
-# 💫 About Me:
-<br><br># 👋 Hi, I'm Saish Warule<br><br>🎓 M.Sc. in Data Science Graduate | 🤖 AI & Generative AI Enthusiast | 👁️ Computer Vision Developer<br><br>---<br><br>## 🚀 About Me<br><br>I am a passionate Data Science postgraduate focused on building intelligent systems using **Machine Learning, Deep Learning, and Generative AI**.<br><br>I specialize in developing **end-to-end AI solutions** — from data preprocessing and feature engineering to model building, fine-tuning, and deployment.<br><br>I enjoy transforming complex data into impactful AI-driven solutions that solve real-world problems.<br><br>---<br><br>## 💡 What I Work On<br><br>* 🤖 **Generative AI** – Fine-tuning LLMs using Transformers<br>* 🔗 **LangChain & LLM Applications** – Building AI agents and workflow-based systems<br>* 👁️ **Computer Vision** – Object Detection using YOLO & OpenCV<br>* 📊 **Machine Learning** – Regression, Classification, Clustering, Ensemble Models<br>* 🧠 **Deep Learning** – ANN, CNN, RNN using TensorFlow & PyTorch<br>* 📈 **Data Analytics & Visualization** – Pandas, NumPy, Power BI<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### 👨‍💻 Programming Languages<br><br>`Python` | `Java` | `C` | `SQL`<br><br>### 🤖 Machine Learning & Deep Learning<br><br>`Scikit-learn` | `TensorFlow` | `PyTorch` | `XGBoost`<br><br>### 🧠 Generative AI<br><br>`Hugging Face Transformers` | `LangChain`<br><br>### 👁️ Computer Vision<br><br>`OpenCV` | `YOLO`<br><br>### 🌐 Frameworks<br><br>`Flask` | `Streamlit`<br><br>### 🧰 Tools<br><br>`Git` | `Power BI`<br><br>---<br><br>## 🎯 Career Focus<br><br>I’m actively seeking opportunities in:<br><br>* 🚀 Generative AI Engineering<br>* 🤖 Machine Learning Engineering<br>* 🔬 AI/ML Research<br><br>---<br><br>## 📌 Current Goal<br><br>Continuously learning advanced AI architectures, LLM fine-tuning, AI agents, and scalable ML systems.<br><br><br>
+# 💫 About Me
+
+## 👋 Hi, I'm Saish Warule
+
+🎓 M.Sc. in Data Science Graduate | 🤖 AI & Generative AI Enthusiast | 👁️ Computer Vision Developer
+
+---
+
+## 🚀 About Me
+
+I am a passionate Data Science postgraduate focused on building intelligent systems using **Machine Learning, Deep Learning, and Generative AI**.
+
+I specialize in developing **end-to-end AI solutions** — from data preprocessing and feature engineering to model building, fine-tuning, and deployment.
+
+I enjoy transforming complex data into impactful AI-driven solutions that solve real-world problems.
+
 
 
 ## 🌐 Socials:
