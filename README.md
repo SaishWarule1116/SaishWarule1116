@@ -26,7 +26,6 @@ I enjoy transforming complex data into impactful AI-driven solutions that solve 
 ![](https://nirzak-streak-stats.vercel.app/?user=SaishWarule1116&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaishWarule1116&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
